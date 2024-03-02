@@ -7,3 +7,5 @@
 .idea/
 
 config.php
+*.zip
+peq-dump/
